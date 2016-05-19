@@ -59,3 +59,7 @@ footer.page-footer {
 .blur {
   -webkit-filter: blur(10px);
 }
+
+.screenFiller {
+  height: 100vh;
+}
