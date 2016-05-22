@@ -1,0 +1,44 @@
+---
+title: Home
+layout: default
+---
+
+  <div id="index-banner" class="parallax-container screenFiller valign-wrapper">
+    <div class="section no-pad-bot ">
+      <div class="container">
+        <br><br>
+        <div class="valign">
+        <h1 class="header center green-text text-lighten-2">Products</h1>
+            <div class="row center">
+              <h5 class="header col s12 light">Fresh fruit. Dried</h5>
+            </div>
+            <br><br>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="img/background1.jpg" alt="Unsplashed background img 1"></div>
+  </div>
+
+  <a id="about"></a>
+  <div class="container">
+    <h2 class="center-align">Project 1</h2>
+    <p class="left-align light">Put words here</p>
+  </div>
+
+  <div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <div class="row center">
+          <h5 class="header col s12 light">When life gives you lemons, dehydrate them.</h5>
+        </div>
+      </div>
+    </div>
+    <div class="parallax"><img src="img/background1.jpg" alt="Unsplashed background img 3"></div>
+  </div>
+  <script>
+    $(".about").click(function() {
+      $('html, body').animate({
+          scrollTop: $("#about").offset().top
+      }, 500);
+    });
+  </script>
