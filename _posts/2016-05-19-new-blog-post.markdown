@@ -1,8 +1,0 @@
----
-layout: post
-title:  "New Blog Post!"
-date:   2016-05-19 20:52:43 -0400
-categories: general
----
-
-This is a blog post
