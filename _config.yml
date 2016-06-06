@@ -20,3 +20,4 @@ collections:
 # Build settings
 markdown: kramdown
 future: true
+encoding: UTF-8
