@@ -70,3 +70,9 @@ footer.page-footer {
   top: 100%;
   visibility: hidden;
 }*/
+
+.logo {
+  height: 25%;
+  width: 25%;
+  padding-bottom: 2%;
+}
