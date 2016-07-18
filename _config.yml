@@ -9,11 +9,11 @@
 title: Blue Hen Treats
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  We're high school students working on this nonprofit!
+  *Blue Hen Treats is a non-profit organization in Delaware. Our volunteers prepare various dehydrated foods for your enjoyment.
+  All income, beyond the cost of raw materials and incidentals, is donated to Delaware charities. There are no salaries. Presently, we operate out of the Belvedere Fire Co. commercial kitchen. Our future goal is to prepare our products in our own facility with the help of people with special needs.
+
 baseurl: "/bluehentreats" # the subpath of your site, e.g. /blog
 url: "https://veggiedefender.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 collections:
   - people
 
