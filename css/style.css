@@ -88,3 +88,10 @@ footer.page-footer {
 .email {
   margin-top: 2%
 }
+
+.placeholder {
+  border-style: dashed;
+  padding-top: 15%;
+  padding-bottom: 15%;
+  margin-bottom: 3%;
+}
