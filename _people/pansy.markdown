@@ -1,4 +1,4 @@
 ---
 name: Pansy
-description: Hi! I'm Pansy.
+description: Bio to come
 ---
