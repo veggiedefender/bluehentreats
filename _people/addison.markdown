@@ -1,4 +1,4 @@
 ---
 name: Addison
-description: Hi! I'm Addison.
+description: Bio to come
 ---
