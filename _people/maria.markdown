@@ -1,4 +1,4 @@
 ---
 name: Maria
-description: Hi! I'm Maria.
+description: Bio to come
 ---
