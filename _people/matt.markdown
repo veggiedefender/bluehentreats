@@ -1,4 +1,4 @@
 ---
 name: Matt
-description: Hi! I'm Matt.
+description: Bio to come
 ---
