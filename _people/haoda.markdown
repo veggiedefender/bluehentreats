@@ -1,4 +1,4 @@
 ---
 name: Haoda
-description: (Bio to come)[http://h313.github.io]
+description: http://h313.github.io
 ---
