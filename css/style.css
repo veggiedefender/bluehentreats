@@ -72,7 +72,9 @@ footer.page-footer {
 }*/
 
 .logo {
-  width: 300px;
+  width: 70vw;
+  max-width: 300px;
+  padding-bottom: 5%;
 }
 
 /*Instagram*/
